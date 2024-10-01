@@ -1,2 +1,4 @@
 # DATA1030-Final-Project
-Final project in machine learning for DATA1030
+Fall 2024 - DATA 1030 - Final Project
+
+Authors: Zacharias Escalante
