@@ -1,4 +1,4 @@
-# DATA1030-Final-Project
+# Binary Classification in a Galaxy Cluster Field Using Machine Learning
 Fall 2024 - DATA 1030 - Final Project
 
 _Author: Zacharias Escalante_
