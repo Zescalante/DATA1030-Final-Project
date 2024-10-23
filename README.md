@@ -7,8 +7,8 @@ This project entails analyzing a catalog of source information contained in the 
 
 ## Contents
 
-'Galaxies_Binary_Classif.ipynb': Jupyter notebook containing data analysis (EDA, Splitting, Preprocessing).
+`Galaxies_Binary_Classif.ipynb`: Jupyter notebook containing data analysis (EDA, Splitting, Preprocessing).
 
-'data_description.txt': A Brief summary of columns (features) in the dataset.
+`data_description.txt`: A Brief summary of columns (features) in the dataset.
 
-'DATA_1030_Midterm_Presentation.pdf': Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
+`DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
