@@ -1,4 +1,4 @@
-# Binary Classification in a Galaxy Cluster Field Using Machine Learning
+# Star/Galaxy Classification in a Galaxy Cluster Field Using Machine Learning
 Fall 2024 - DATA 1030 - Final Project
 
 _Author: Zacharias Escalante_
@@ -12,3 +12,13 @@ This project entails analyzing a catalog of source information contained in the 
 `data_description.txt`: A Brief summary of columns (features) in the dataset.
 
 `DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
+
+
+## Installation
+
+Python and package versions are contained within [data1030.yml](data1030.yml)
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
