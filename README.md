@@ -9,9 +9,13 @@ This project entails analyzing a catalog of source information contained in the 
 
 `data` folder
 
-* `data_description.txt`
+* `data_description.txt`: A brief summary of columns (features) in the dataset.
+
+* Raw data file is too large for a repository, but can be shared upon reasonable request.
 
 `figures` folder
+
+* `DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
 
 `results` folder
 
@@ -19,12 +23,7 @@ This project entails analyzing a catalog of source information contained in the 
 
 `src` folder
 
-
-`Galaxies_Binary_Classif.ipynb`: Jupyter notebook containing data analysis (EDA, Splitting, Preprocessing).
-
-`data_description.txt`: A Brief summary of columns (features) in the dataset.
-
-`DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
+* `Galaxies_Binary_Classif.ipynb`: Jupyter notebook containing initial data analysis (EDA, Splitting, Preprocessing).
 
 
 ## Installation
