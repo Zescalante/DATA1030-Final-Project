@@ -9,7 +9,7 @@ This project entails analyzing a catalog of source information contained in the 
 
 `data` folder
 
-
+* `data_description.txt`
 
 `figures` folder
 
