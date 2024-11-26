@@ -8,9 +8,15 @@ This project entails analyzing a catalog of source information contained in the 
 ## Contents
 
 `data` folder
+
+
+
 `figures` folder
+
 `results` folder
+
 `report` folder
+
 `src` folder
 
 
