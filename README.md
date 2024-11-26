@@ -7,6 +7,13 @@ This project entails analyzing a catalog of source information contained in the 
 
 ## Contents
 
+`data` folder
+`figures` folder
+`results` folder
+`report` folder
+`src` folder
+
+
 `Galaxies_Binary_Classif.ipynb`: Jupyter notebook containing data analysis (EDA, Splitting, Preprocessing).
 
 `data_description.txt`: A Brief summary of columns (features) in the dataset.
