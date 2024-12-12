@@ -16,7 +16,7 @@ This project entails analyzing a catalog of source information contained in the 
 `figures` folder
 
 * `DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
-* `DATA_1030_Final_Presentation.pdf`: Final presentation slides explaining covering summary of midterm presentation, models used, feature importance, and conclusions.
+* `DATA_1030_Final_Presentation.pdf`: Final presentation slides summarizing midterm presentation, models used, feature importance, and conclusions.
 
 `results` folder
 
