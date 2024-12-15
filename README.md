@@ -15,6 +15,8 @@ This project entails analyzing a catalog of source information contained in the 
 
 `figures` folder
 
+* Figures generated for final report, midterm and final presentations. Supplementary figures also included.
+
 `results` folder
 
 `report` folder
