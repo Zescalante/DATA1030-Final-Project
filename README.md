@@ -3,7 +3,7 @@ Fall 2024 - DATA 1030 - Final Project
 
 _Author: Zacharias Escalante_
 
-This project entails analyzing a catalog of source information contained in the field of the Abell 3266 galaxy cluster field, created using data from the LoVoCCS survey and other external surveys. Exploratory data analysis is first carried out, followed by the engineering of new features, as well as data splitting and preprocessing in preparation for passing into a machine learing pipeline.
+This project entails analyzing a catalog of source information contained in the field of the Abell 3266 galaxy cluster field, created using data from the LoVoCCS survey and other external surveys. Exploratory data analysis is first carried out, followed by the engineering of new features, as well as data splitting and preprocessing in preparation for passing into a machine learing pipeline. Four ML models are trained: Logistic Regression with Elastic Net, SVC, K-Neighbors Classifier, and Random Forest Classifier. Model performance is then examined, followed by global and local feature importance.
 
 ## Contents
 
@@ -26,7 +26,7 @@ This project entails analyzing a catalog of source information contained in the 
 
 `src` folder
 
-* `EDA_Prep_Models.ipynb`: Jupyter notebook containing initial data analysis (EDA, Splitting, Preprocessing) and model implementation (Logistic Regressions Elastic Net, SVC, K-Neighbors Classifier, Random Forest Classifier)
+* `EDA_Prep_Models.ipynb`: Jupyter notebook containing initial data analysis (EDA, Splitting, Preprocessing) and model implementation (Logistic Regression Elastic Net, SVC, K-Neighbors Classifier, Random Forest Classifier)
 
 
 ## Installation
