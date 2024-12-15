@@ -28,6 +28,8 @@ This project entails analyzing a catalog of source information contained in the 
 
 * `EDA_Prep_Models.ipynb`: Jupyter notebook containing initial data analysis (EDA, Splitting, Preprocessing) and model implementation (Logistic Regression Elastic Net, SVC, K-Neighbors Classifier, Random Forest Classifier)
 
+* `Results.ipynb`: Jupyter notebook containing model evaluation, comparison, and feature importance examination.
+
 
 ## Installation
 
