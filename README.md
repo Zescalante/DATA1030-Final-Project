@@ -17,18 +17,18 @@ This project entails analyzing a catalog of source information contained in the 
 
 * Figures generated for final report, midterm and final presentations. Supplementary figures also included.
 
+`report` folder
+
+* `DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
+* `DATA_1030_Final_Presentation.pdf`: Final presentation slides summarizing midterm presentation, models used, feature importance, and conclusions.
+* `DATA_1030_Project_Report.pdf`: Final report describing all steps of analysis and findings in detail.
+  
 `results` folder
 
 * `knn_models_list.pkl`: .pkl file holding five sets of optimal parameters for KNeighborsClassifier model.
 * `logreg_models_list.pkl`: .pkl file holding five sets of optimal parameters for LogisticRegression model.
 * `rf_models_list.pkl`: .pkl file holding five sets of optimal parameters for RandomForest model.
 * `svc_models_list.pkl`: .pkl file holding five sets of optimal parameters for SVC model.
-
-`report` folder
-
-* `DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
-* `DATA_1030_Final_Presentation.pdf`: Final presentation slides summarizing midterm presentation, models used, feature importance, and conclusions.
-* `DATA_1030_Project_Report.pdf`: Final report describing all steps of analysis and findings in detail.
 
 `src` folder
 
