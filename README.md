@@ -15,16 +15,16 @@ This project entails analyzing a catalog of source information contained in the 
 
 `figures` folder
 
-* `DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
-* `DATA_1030_Final_Presentation.pdf`: Final presentation slides summarizing midterm presentation, models used, feature importance, and conclusions.
-
 `results` folder
 
 `report` folder
 
+* `DATA_1030_Midterm_Presentation.pdf`: Midterm presentation slides explaining origin of dataset, EDA splitting, and preprocessing.
+* `DATA_1030_Final_Presentation.pdf`: Final presentation slides summarizing midterm presentation, models used, feature importance, and conclusions.
+
 `src` folder
 
-* `Galaxies_Binary_Classif.ipynb`: Jupyter notebook containing initial data analysis (EDA, Splitting, Preprocessing).
+* `EDA_Prep_Models.ipynb`: Jupyter notebook containing initial data analysis (EDA, Splitting, Preprocessing) and model implementation (Logistic Regressions Elastic Net, SVC, K-Neighbors Classifier, Random Forest Classifier)
 
 
 ## Installation
